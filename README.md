@@ -4,7 +4,7 @@
 
 For this particular assignment, the data of different types of wine sales in the 20th century is to be analysed. Both of these data are from the same company but of different wines. As an analyst in the ABC Estate Wines, you are tasked to analyse and forecast Wine Sales in the 20th century.
 
-Performed the following questions on each of these two data sets separately.
+Performed the following questions.
 
 1. Read the data as an appropriate Time Series data and plot the data.
 2. Perform appropriate Exploratory Data Analysis to understand the data and also perform decomposition.
